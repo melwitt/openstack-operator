@@ -81,6 +81,8 @@ github.com/leodido/go-urn v1.4.0 h1:WT9HwE9SGECu3lg4d/dIA+jxlljEa1/ffXKmRjqdmIQ=
 github.com/leodido/go-urn v1.4.0/go.mod h1:bvxc+MVxLKB4z00jd1z+Dvzr47oO32F/QSNjSBOlFxI=
 github.com/mailru/easyjson v0.7.7 h1:UGYAvKxe3sBsEDzO8ZeWOSlIQfWFlxbzLZe7hwFURr0=
 github.com/mailru/easyjson v0.7.7/go.mod h1:xzfreul335JAWq5oZzymOObrkdz5UnU4kGfJJLY9Nlc=
+github.com/melwitt/nova-operator/api v0.0.0-20250213085715-99b1f0432687 h1:k+ZOumHL/qsw30Qj7pHgCJD0NpuNq1tT8o7mlI2JmXY=
+github.com/melwitt/nova-operator/api v0.0.0-20250213085715-99b1f0432687/go.mod h1:ouAtrBGah0l8hhuJanSqVtRUXH2SUMzsr0x9SGDh9ek=
 github.com/metal3-io/baremetal-operator/apis v0.6.3 h1:0HB0Nkz3PZFf1An9MxqyOfjgBztzihTSb4j3EPt8j88=
 github.com/metal3-io/baremetal-operator/apis v0.6.3/go.mod h1:G7ZbZqrASbIDpHXB2Zu3KaCNaRasnB/sOt6ewgDSrMA=
 github.com/metal3-io/baremetal-operator/pkg/hardwareutils v0.5.1 h1:X0+MWsJ+Gj/TAkmhGybvesvxk6zQKu3NQXzvC6l0iJs=
@@ -134,8 +136,6 @@ github.com/openstack-k8s-operators/mariadb-operator/api v0.5.1-0.20250130183307-
 github.com/openstack-k8s-operators/mariadb-operator/api v0.5.1-0.20250130183307-cd27e92d7620/go.mod h1:wyvGgWBf18AhYLXN7apmlZxpho8N9HCEWmihO/+Albc=
 github.com/openstack-k8s-operators/neutron-operator/api v0.5.1-0.20250123151805-ee0b6cafae52 h1:d4q+TK2DmM4WfUdPF2EKzbUYavLr4GYkmNNXg1uTb2Q=
 github.com/openstack-k8s-operators/neutron-operator/api v0.5.1-0.20250123151805-ee0b6cafae52/go.mod h1:3hQU5jwHizOTQi30dPAXuPbUzVOo59OgK3jRWKqAPQ0=
-github.com/openstack-k8s-operators/nova-operator/api v0.5.1-0.20250129114118-0933c978bad4 h1:ittly0v77lDUVSzRy5QEFcR4z6U1/KG+uyOKegiAJ2Y=
-github.com/openstack-k8s-operators/nova-operator/api v0.5.1-0.20250129114118-0933c978bad4/go.mod h1:ouAtrBGah0l8hhuJanSqVtRUXH2SUMzsr0x9SGDh9ek=
 github.com/openstack-k8s-operators/octavia-operator/api v0.5.1-0.20250204150806-a8e38cac8de0 h1:P/XqJMRzDTJIiFBH4vwzHFEeh2enBHrD1z5aONcm4/8=
 github.com/openstack-k8s-operators/octavia-operator/api v0.5.1-0.20250204150806-a8e38cac8de0/go.mod h1:e7QBNVbrgbdStxOgYZdHRnNeKWlcU37++fgTbvP1NRk=
 github.com/openstack-k8s-operators/openstack-baremetal-operator/api v0.5.1-0.20250204103128-f4aca08eca76 h1:el3VJszXHXx046vxj0WdQtRrJHo0JFlxToCiC6X2ZN0=
